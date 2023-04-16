@@ -1,4 +1,3 @@
-# About-me
 # 💫 About Me:
 ヾ(＠⌒ー⌒＠)ノ Hello! My name is Dario Castagnola.<br>(❁´◡`❁) I'm a 42Roma LUISS student attending since 16/01/2023.<br>(●'◡'●) Feel free to use my repositories to help yourself, everyone needs a little help!<br>
 
